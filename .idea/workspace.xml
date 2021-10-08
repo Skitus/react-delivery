@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="096f66db-f57b-4735-81a6-39fa98f795c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Content/Content.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Content/Content.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/FormErrorMessage/FormErrorMessage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/FormErrorMessage/FormErrorMessage.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Input/Input.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Input/Input.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Sidebar/Sidebar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Sidebar/Sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Table/Table.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Table/Table.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Title/Title.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Title/Title.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/actions/delivery-orders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/delivery-orders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/redux-store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="Sass File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zBLu31v3vqkWgNwAH1Y4NnqYQM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="Sass" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="D:\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Проекты\my works\React-redux\react-delivery\delivery\src\redux\reducers" />
+      <recent name="D:\Проекты\my works\React-redux\react-delivery\delivery\src\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="096f66db-f57b-4735-81a6-39fa98f795c1" name="Default Changelist" comment="" />
+      <created>1633616754456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633616754456</updated>
+      <workItem from="1633616764819" duration="1382000" />
+      <workItem from="1633618273722" duration="5119000" />
+      <workItem from="1633623652303" duration="12567000" />
+      <workItem from="1633672104019" duration="8434000" />
+      <workItem from="1633680758707" duration="1590000" />
+      <workItem from="1633685939199" duration="1696000" />
+      <workItem from="1633687664427" duration="2897000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

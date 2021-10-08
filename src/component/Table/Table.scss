@@ -1,0 +1,140 @@
+.flex-table {
+  display: flex;
+  justify-content: space-between;
+
+  .table-block, .form-table {
+    width: 100%;
+  }
+
+  .form-table {
+    background-color: #EDEDED;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 0px;
+
+    input, .button-submit {
+      width: 150px;
+      border: none;
+      border-radius: 5px;
+      height: 30px;
+      outline: none;
+      background-color: white;
+      font-weight: bold;
+    }
+  }
+
+  .errors-input {
+    display: inline-block;
+
+    .flex {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+
+  .table-delivery {
+    width: 100%;
+    text-align: center;
+
+    .title-table, .content-table {
+      tr {
+        th, td {
+          padding: 20px 0px;
+          border-bottom: 1px solid darkgrey;
+          vertical-align: middle;
+          width: 200px;
+          max-width: 200px;
+
+          p {
+            text-align: center;
+            word-break: break-all;
+            margin: 0px auto;
+          }
+        }
+
+        .id {
+          color: #0F8DC3;
+        }
+      }
+    }
+
+    .content-table {
+      tr {
+        transition: background-color 1s ease;
+        &:hover {
+          background-color: #0C94F5;
+          border-radius: 20px;
+
+          td {
+            p {
+              color: white;
+            }
+          }
+        }
+      }
+    }
+  }
+
+
+  .button-add {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    border: 2px solid black;
+    font-size: 20px;
+  }
+
+
+
+    .status {
+      background-color: #73E460;
+      color: #398E2A;
+      text-align: center;
+      width: 100px;
+      line-height: 30px;
+      border-radius: 100px;
+
+      span {
+        border-radius: 50px;
+        margin-right: 10px;
+      }
+    }
+
+  @media screen and (max-width: 768px) {
+    .table-delivery thead {
+      display: none;
+    }
+    .table-delivery tr {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      margin-bottom: 30px;
+    }
+    .table-delivery td {
+      margin: 0 -1px -1px 0;
+      padding-top: 35px;
+      position: relative;
+      width: 50%;
+    }
+    .table-delivery td span {
+      display: block;
+    }
+    .table-delivery td {
+      width: 100%;
+    }
+    .form-table {
+      display: flex;
+      flex-direction: column;
+
+      input, .button-submit  {
+        margin: 20px auto;
+      }
+    }
+  }
+}
+@media screen and (max-width: 768px) {
+.flex-table {
+  display: inline-block;
+}
+}
